@@ -1,0 +1,20 @@
+{
+  "K": 2,
+  "__description1": "New dimensionality, K<N.",
+  "Np": 40,
+  "__description2": "Number of particles",
+  "I": 100,
+  "__description3": "Number of epochs",
+  "w": 0.1,
+  "__description4": "weighting coefficient",
+  "c1": 0.1,
+  "__description5": "1st scaling coefficient",
+  "c2": 0.1,
+  "__description6": "2nd scaling coefficient",
+  "dt": 0.1,
+  "__description7": "Time step",
+  "boundary_condition": "invisible_walls",
+  "__description8": "Conditions to keep the particles within range",
+  "dataset_path": "iris_dataset/iris.data",
+  "__description9": "Data set path"
+}
